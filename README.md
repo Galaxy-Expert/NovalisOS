@@ -1,7 +1,7 @@
 # NovalisOS 🚀
 
 <p align="center">
-  <img src="logos_and_media/logo.png" alt="NovalisOS Logo" width="200px"/>
+  <img src="README-res/logo.png" alt="NovalisOS Logo" width="200px"/>
   <br>
   <b>A Premium, Customizable, and Performance-Oriented One UI Port for Galaxy S20 FE 5G (r8q)</b>
   <br>
